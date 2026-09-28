@@ -20,4 +20,4 @@ Microsoft Certified DevOps Engineer Expert (AZ-400) · Azure Developer Associate
 #### Toolbox
 `Azure` `AWS` `Kubernetes (AKS/EKS)` `Docker` `Helm` `Terraform` `Azure Policy` `GitHub Actions` `Azure DevOps` `OpenTelemetry` `Prometheus` `Grafana` `Go` `Python` `Bash` `PowerShell`
 
-📫 speakwithuche@rapidmailhost.com
+📫 [speakwithuche@gmail.com](mailto:speakwithuche@gmail.com)
